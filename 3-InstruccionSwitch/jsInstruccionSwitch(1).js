@@ -10,7 +10,7 @@ function Mostrar()
         case "Enero":
         alert("que comiences bien el año");
         break;
-        case "marzo":
+        case "Marzo":
         alert("a clases");
         break;
         case "Julio":
